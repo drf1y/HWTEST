@@ -1,1 +1,2 @@
 # HWTEST
+print('HELLOWORLD')
